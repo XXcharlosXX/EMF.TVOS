@@ -1,50 +1,30 @@
 {
   "images": [
     {
-      "idiom": "universal"
+      "filename": "top-shelf-klove.png",
+      "scale": "1x",
+      "idiom": "tv"
+    },
+    {
+      "filename": "top-shelf-klove@2x.png",
+      "scale": "2x",
+      "idiom": "tv"
     },
     {
       "scale": "1x",
-      "idiom": "universal"
+      "idiom": "tv"
     },
     {
       "scale": "2x",
-      "idiom": "universal"
-    },
-    {
-      "scale": "3x",
-      "idiom": "universal"
-    },
-    {
-      "idiom": "iphone"
+      "idiom": "tv"
     },
     {
       "scale": "1x",
-      "idiom": "iphone"
+      "idiom": "tv"
     },
     {
       "scale": "2x",
-      "idiom": "iphone"
-    },
-    {
-      "subtype": "retina4",
-      "scale": "2x",
-      "idiom": "iphone"
-    },
-    {
-      "scale": "3x",
-      "idiom": "iphone"
-    },
-    {
-      "idiom": "ipad"
-    },
-    {
-      "scale": "1x",
-      "idiom": "ipad"
-    },
-    {
-      "scale": "2x",
-      "idiom": "ipad"
+      "idiom": "tv"
     }
   ],
   "info": {

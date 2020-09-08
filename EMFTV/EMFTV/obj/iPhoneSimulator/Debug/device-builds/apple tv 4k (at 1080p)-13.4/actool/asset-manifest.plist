@@ -9,6 +9,150 @@
 			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/partial-info.plist</string>
 		</array>
 	</dict>
+	<key>com.apple.actool.document.errors</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon - Large.imagestack</string>
+			</array>
+			<key>catalog</key>
+			<string>/var/folders/xs/mvsh9jkn1c1d36_j79x6yl7xq6lg61/T/Large-AppIcon-Scratch-9FF73BAF-6961-4667-A023-C9052ECEEC14.xcassets</string>
+			<key>message</key>
+			<string>The image stack "App Icon - Large" must have at least 2 layers with applicable content. Although it has 3 layers, none have applicable content.</string>
+			<key>type</key>
+			<string>Unsupported Configuration</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image stack "App Icon - Small" must have at least 2 layers with applicable content. Although it has 3 layers, none have applicable content.</string>
+			<key>type</key>
+			<string>Unsupported Configuration</string>
+		</dict>
+	</array>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/[tv][][][1x][][][][][][][][][][][1d][top-shelf-klove-wide.png]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/[tv][][][2x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/[tv][][][2x][][][][][][][][][][][1d][top-shelf-klove-wide@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Top Shelf Image Wide" has 4 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image.imageset/[tv][][][1x][][][][][][][][][][][1d][top-shelf-klove.png]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image.imageset/[tv][][][2x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/Top Shelf Image.imageset/[tv][][][2x][][][][][][][][][][][1d][top-shelf-klove@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Top Shelf Image" has 4 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Large.imagestack/Front.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Large.imagestack/Front.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][tv-ic-klove-front-lg.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Content" has 2 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Large.imagestack/Back.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Large.imagestack/Back.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][tv-ic-klove-back-lg.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Content" has 2 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][tv-ic-klove-middle-lg.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Content" has 2 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Back.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Back.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][tv-ic-klove-back.png]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Back.imagestacklayer/Content.imageset/[tv][][][2x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Back.imagestacklayer/Content.imageset/[tv][][][2x][][][][][][][][][][][1d][tv-ic-klove-back@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Content" has 4 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Front.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Front.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][tv-ic-klove-front.png]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Front.imagestacklayer/Content.imageset/[tv][][][2x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Front.imagestacklayer/Content.imageset/[tv][][][2x][][][][][][][][][][][1d][tv-ic-klove-front@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Content" has 4 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Middle.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Middle.imagestacklayer/Content.imageset/[tv][][][1x][][][][][][][][][][][1d][tv-ic-klove-middle.png]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Middle.imagestacklayer/Content.imageset/[tv][][][2x][][][][][][][][][][][1d][(null)]</string>
+				<string>./App Icon &amp; Top Shelf Image.brandassets/App Icon - Small.imagestack/Middle.imagestacklayer/Content.imageset/[tv][][][2x][][][][][][][][][][][1d][tv-ic-klove-middle@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Content" has 4 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
 	<key>com.apple.actool.notices</key>
 	<array>
 		<dict>
