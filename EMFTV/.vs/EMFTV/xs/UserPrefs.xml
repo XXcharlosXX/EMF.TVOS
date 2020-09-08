@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5DDEE374-75F4-4FF6-B0CA-20433EE2BEF4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EMFTV/Info.plist">
+    <Files>
+      <File FileName="EMFTV/ViewController.cs" Line="21" Column="41" />
+      <File FileName="EMFTV/AppDelegate.cs" Line="61" Column="1" />
+      <File FileName="EMFTV/Main.cs" Line="19" Column="1" />
+      <File FileName="EMFTV/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EMFTV" expanded="True">
+            <Node name="EMFTV" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EMFTV PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FDBA3B8F-3112-4323-A596-AB950DB39223" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

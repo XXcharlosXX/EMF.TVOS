@@ -1,0 +1,44 @@
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/EMFTV.exe
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/EMFTV.pdb
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.Http.Features.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Configuration.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Configuration.Binder.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.DependencyInjection.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Logging.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Options.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Primitives.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/System.IO.Pipelines.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/System.Net.Http.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/System.Text.Encodings.Web.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/System.Text.Json.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/bin/iPhoneSimulator/Debug/System.Threading.Channels.dll
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/_PartialAppManifest.items
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/coremlc/_PartialAppManifest.items
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/optimized/a1-logo-tagline-white.png
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/optimized/dark-gradient.png
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/optimized/kl-logo-tagline-white.png
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/optimized/play-fill.png
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/optimized/stop-fill.png
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/device-builds/apple tv 4k (at 1080p)-13.4/optimized/
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/EMFTV.csproj.CoreCompileInputs.cache
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/EMFTV.csproj.CopyComplete
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/EMFTV.exe
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/EMFTV.pdb
+/Users/cvelazquez/Desktop/Xamarin TV EMF Radio/EMFTV/EMFTV/obj/iPhoneSimulator/Debug/EMFTV.csprojAssemblyReference.cache
